@@ -1,2 +1,2 @@
 NewClass
-1
+12
