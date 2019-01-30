@@ -1,5 +1,6 @@
 public class FileA
 {
+	private int variableA;
 	public FileA()
 	{
 		console.WriteLine("test");
