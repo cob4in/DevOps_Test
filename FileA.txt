@@ -1,0 +1,7 @@
+public class FileA
+{
+	public FileA()
+	{
+		console.WriteLine("test");
+	}
+}
