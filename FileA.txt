@@ -3,6 +3,7 @@ public class FileA
 	private int variableA;
 	private int variableB;
 	private int variableC;
+	private int variableD;
 	public FileA()
 	{
 		console.WriteLine("test");
