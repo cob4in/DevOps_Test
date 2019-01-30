@@ -5,4 +5,9 @@ public class FileA
 	{
 		console.WriteLine("test");
 	}
+
+	public string SomeFun()
+	{
+		return "someFun";
+	}
 }
