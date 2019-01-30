@@ -24,6 +24,11 @@ public class FileA
 		return "someOtherfun";
 	}
 
+	public string MiddleFun2()
+	{
+		return "MiddleFun2";
+	}
+
 	public string innerFunc()
 	{
 		return "someFunDEV";
