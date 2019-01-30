@@ -11,7 +11,7 @@ public class FileA
 
 	public string SomeFun()
 	{
-		return innerFunc(true);
+		return innerFunc(false);
 	}
 
 	public string MiddleFun()
