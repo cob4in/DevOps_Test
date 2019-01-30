@@ -10,7 +10,7 @@ public class FileA
 
 	public string SomeFun()
 	{
-		return "someFun";
+		return "someFun2";
 	}
 
 	public string MiddleFun()
