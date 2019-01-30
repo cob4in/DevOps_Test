@@ -2,6 +2,7 @@ public class FileA
 {
 	private int variableA;
 	private int variableB;
+	private int variableC;
 	public FileA()
 	{
 		console.WriteLine("test");
