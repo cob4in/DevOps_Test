@@ -22,7 +22,7 @@ public class FileA
 
 	public string MiddleFun2()
 	{
-		return "MiddleFun2";
+		return MiddleFun();
 	}
 
 	public string innerFunc()
