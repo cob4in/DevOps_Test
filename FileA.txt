@@ -1,6 +1,7 @@
 public class FileA
 {
 	private int variableA;
+	private int variableB;
 	public FileA()
 	{
 		console.WriteLine("test");
