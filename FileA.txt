@@ -10,6 +10,11 @@ public class FileA
 		return "someFun";
 	}
 
+	public string MiddleFun()
+	{
+		return "MiddleFun";
+	}
+
 	public string SomeOtherFun()
 	{
 		return "someOtherfun";
