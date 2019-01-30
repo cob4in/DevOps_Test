@@ -9,4 +9,9 @@ public class FileA
 	{
 		return "someFun";
 	}
+
+	public string SomeOtherFun()
+	{
+		return "someOtherfun";
+	}
 }
