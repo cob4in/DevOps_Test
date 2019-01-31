@@ -31,6 +31,6 @@ public class FileA
 
 	public string innerFunc()
 	{
-		return "someFunDEV";
+		return "QAChange";
 	}
 }
