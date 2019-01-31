@@ -27,6 +27,6 @@ public class FileA
 
 	public string innerFunc()
 	{
-		return "someFunDEV";
+		return "changeonDEV";
 	}
 }
